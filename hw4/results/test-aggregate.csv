@@ -1,0 +1,4 @@
+﻿group,n_runs,clean_accuracy_pct_mean,clean_accuracy_pct_sample_std,mean_corrupted_15_pct_mean,mean_corrupted_15_pct_sample_std,rotation_accuracy_pct_mean,rotation_accuracy_pct_sample_std,clean_change_vs_A_pp_mean,clean_change_vs_A_pp_sample_std,corrupted_gain_vs_A_pp_mean,corrupted_gain_vs_A_pp_sample_std
+A_clean,1,93.05,,69.24533333333333,,56.955000000000005,,0.0,,0.0,
+B_rotation,1,92.81,,79.714,,91.19833333333332,,-0.23999999999999488,,10.468666666666664,
+C_mixed,1,92.78999999999999,,89.914,,88.27666666666669,,-0.2600000000000051,,20.668666666666667,

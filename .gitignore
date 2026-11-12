@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv/
+.DS_Store
+Thumbs.db
+/midterm/
+/hw1/data/*
+!/hw1/data/sample-document.jpg
+/hw2/hw2/
+/hw3/data/
+/hw4/data/
+/hw4/HW4_experiments/reference/
+output/
+outputs/
+*.pt
+*.pth
+*-ubyte*

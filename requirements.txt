@@ -1,0 +1,5 @@
+numpy
+opencv-python
+matplotlib
+torch>=2.1
+tqdm
